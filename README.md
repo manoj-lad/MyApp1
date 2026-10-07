@@ -1,2 +1,2 @@
 # MyApp1
-Test repository to build a advance calculator app
+Test repository to build a Tiffin Coordination application
